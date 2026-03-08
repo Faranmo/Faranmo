@@ -2,8 +2,6 @@
 
 Hey I'm Faran 👋
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/13db9a5b-4037-4fa5-a69c-1ff920d57d59" /> <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/7ce669ed-6452-49d8-ac63-8a6417941849" />
-
 
 
 I'm a Senior AI Analyst @ Accelyst AI building agentic AI systems for enterprise clients.
