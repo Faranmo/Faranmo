@@ -3,7 +3,7 @@
 Hey I'm Faran 👋
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pla2Mzd3A2YWYxMmowZHV1aHJyMW8wYTRsa2M2bXJoYjBidGI0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="250"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pla2Mzd3A2YWYxMmowZHV1aHJyMW8wYTRsa2M2bXJoYjBidGI0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="250"/>
 </p>
 
 
