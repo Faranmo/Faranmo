@@ -1,7 +1,10 @@
 # 💫 About Me:
 
 Hey I'm Faran 👋
-![Calculate Artificial Intelligence GIF by Pudgy Penguins](https://github.com/user-attachments/assets/83362e26-e0f8-48d3-89a3-57dd0c4c5033)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83362e26-e0f8-48d3-89a3-57dd0c4c5033" width="250"/>
+</p>
 
 I'm a Senior AI Analyst @ Accelyst AI building agentic AI systems for enterprise clients.
 
