@@ -2,10 +2,6 @@
 
 Hey I'm Faran 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="250"/>
-</p>
-
 I'm a Senior AI Analyst @ Accelyst AI building agentic AI systems for enterprise clients.
 
 🔭 I'm currently working on RegFlow AI, a multi-agent compliance platform that lets mortgage teams query regulatory docs in plain English<br>
