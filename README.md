@@ -31,9 +31,13 @@
 # 🌴 When I'm AFK:
 
  🥊 I'm watch UFC and I will have an opinion on every card
+ 
  🏄 I surf and snowboard when the code compiles
+ 
  🏀 I'm a Hooper
+ 
  🤜🤛 Volunteering for the community
+ 
  🎧 I'm listening to everything
 
 
