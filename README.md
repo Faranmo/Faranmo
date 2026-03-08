@@ -9,7 +9,8 @@
 
 I'm a **Senior AI Analyst** @ Accelyst AI building agentic AI systems for enterprise clients.
 
-I graduated with a **B.S. in Information Technology** from the University of South Florida and an **M.S. in Artificial Intelligence** from Florida Atlantic University.
+ **B.S. in Information Technology** from the University of South Florida 
+ **M.S. in Artificial Intelligence** from Florida Atlantic University.
 
 I strongly believe that everyday is a chance to get better 🚀
 
