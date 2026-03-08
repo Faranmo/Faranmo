@@ -8,22 +8,15 @@
 # 💫 About Me:
 
 I'm a Senior AI Analyst @ Accelyst AI building agentic AI systems for enterprise clients.
-
 I graduated with a B.S. in IT from the University of South Florida and an M.S. in Artificial Intelligence from Florida Atlantic University.
-
 I strongly believe that everyday is a chance to get better 🚀
 
 
  🔭 I'm currently working on RegFlow AI, a multi-agent compliance platform that lets mortgage teams query regulatory docs in plain English<br>
- 
  🤝 I'm looking to collaborate on anything agentic AI, RAG/GraphRAG, or enterprise AI tooling<br>
- 
  🙏 I'm looking for help with scaling multi-agent orchestration and building solid LLMOps eval frameworks<br>
- 
  🌱 I'm currently learning LangGraph, GraphRAG, MCP, and production ML monitoring (drift detection, automated retraining)<br>
- 
  💬 Ask me about building AI for regulated industries, getting non-technical teams to actually adopt AI tools, or why hybrid retrieval beats dense search every time<br>
- 
  ⚡ Fun fact I'll debate UFC matchups with the same energy I vibe code
 
 
