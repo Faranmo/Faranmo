@@ -1,15 +1,15 @@
 # 💫 About Me:
 
-Hey I'm Faran!
+Hey I'm Faran 👋
 
-<img width="363" height="450" alt="image" src="https://github.com/user-attachments/assets/13db9a5b-4037-4fa5-a69c-1ff920d57d59" />
+<img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/13db9a5b-4037-4fa5-a69c-1ff920d57d59" />
 
 
 I'm a Senior AI Analyst @ Accelyst AI building agentic AI systems for enterprise clients.
 
 🔭 I'm currently working on RegFlow AI, a multi-agent compliance platform that lets mortgage teams query regulatory docs in plain English<br>
 
-👯 I'm looking to collaborate on anything agentic AI, RAG/GraphRAG, or enterprise AI tooling<br>🤝 I'm looking for help with scaling multi-agent orchestration and building solid LLMOps eval frameworks<br>
+🤝 I'm looking to collaborate on anything agentic AI, RAG/GraphRAG, or enterprise AI tooling<br>🤝 I'm looking for help with scaling multi-agent orchestration and building solid LLMOps eval frameworks<br>
 
 🌱 I'm currently learning LangGraph, GraphRAG, MCP, and production ML monitoring (drift detection, automated retraining)<br>
 
