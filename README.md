@@ -1,11 +1,11 @@
-# Hey I'm Faran 👋
+# <h1 align="center">Hey I'm Faran 👋</h1>
 
-
-💫 About Me:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/83362e26-e0f8-48d3-89a3-57dd0c4c5033" width="250"/>
 </p>
+
+💫 About Me:
 
 I'm a Senior AI Analyst @ Accelyst AI building agentic AI systems for enterprise clients.
 
