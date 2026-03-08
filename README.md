@@ -7,7 +7,7 @@
 
 💫 About Me:
 
-#I'm a Senior AI Analyst @ Accelyst AI building agentic AI systems for enterprise clients.
+# I'm a Senior AI Analyst @ Accelyst AI building agentic AI systems for enterprise clients.
 
 🔭 I'm currently working on RegFlow AI, a multi-agent compliance platform that lets mortgage teams query regulatory docs in plain English<br>
 🤝 I'm looking to collaborate on anything agentic AI, RAG/GraphRAG, or enterprise AI tooling<br>
