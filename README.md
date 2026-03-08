@@ -27,15 +27,15 @@ I'm a Senior AI Analyst @ Accelyst AI building agentic AI systems for enterprise
 ![](https://nirzak-streak-stats.vercel.app/?user=faranmo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faranmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🌴 AFK
+🌴 When I'm AFK
 
-🥊 UFC fan, will have an opinion on every card
+🥊 I'm watch UFC and I will have an opinion on every card
 
-🏄 Surf and snowboard when the code compiles
+🏄 I surf and snowboard when the code compiles
 
-🏀 Hooper
+🏀 I'm a Hooper
 
-🎧 Lo-fi at 2am is where the real coding happens
+🎧 I'm listening to everything
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
