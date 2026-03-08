@@ -28,9 +28,13 @@ I'm a Senior AI Analyst @ Accelyst AI building agentic AI systems for enterprise
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faranmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 🌴 AFK
+
 🥊 UFC fan, will have an opinion on every card
+
 🏄 Surf and snowboard when the code compiles
+
 🏀 Hooper
+
 🎧 Lo-fi at 2am is where the real coding happens
 
 ### ✍️ Random Dev Quote
