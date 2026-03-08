@@ -34,7 +34,7 @@ I strongly believe that everyday is a chance to get better 🚀
 
 # 🌴 When I'm AFK:
 
- 🥊 I'm watch UFC and I will have an opinion on every card<br>
+ 🥊 I'm watching UFC and I will probably have a wild take on every card<br>
  🏄 I surf and snowboard when the code compiles<br>
  🏀 I'm a Hooper<br>
  🤜🤛 Volunteering for the community<br>
