@@ -33,7 +33,6 @@ I strongly believe that everyday is a chance to get better 🚀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faranmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🌴 When I'm AFK:
-
  🥊 I'm watch UFC and I will have an opinion on every card
  🏄 I surf and snowboard when the code compiles
  🏀 I'm a Hooper
