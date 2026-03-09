@@ -7,10 +7,10 @@
 
 # 💫 About Me:
 
-I'm a **Senior AI Analyst** @ Accelyst AI building agentic AI systems for enterprise clients.
+I'm a **Senior AI Analyst** @ Accelyst AI where I build agentic AI systems for enterprise clients
 
  **B.S. in Information Technology** from the University of South Florida |
- **M.S. in Artificial Intelligence** from Florida Atlantic University.
+ **M.S. in Artificial Intelligence** from Florida Atlantic University
 
 I strongly believe that everyday is a chance to get better 🚀
 
